@@ -48,7 +48,7 @@ export function MainSection() {
               <div className="h-[0.5px] bg-white mt-4"></div>
             </div>
             <div className="mt-4">
-              <h4 className="text-4xl text-primary">91%</h4>
+              <h4 className="text-4xl text-primary">98%</h4>
               <p className="mt-1">Accuracy</p>
               <div className="h-[0.5px] bg-white mt-4"></div>
             </div>
