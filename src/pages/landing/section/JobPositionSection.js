@@ -11,7 +11,7 @@ export function JobPositionSection() {
           <h5 className="">Role</h5>
           <h2 className="text-5xl font-[500] mt-4">
             <span className="text-primary">Segmentation User</span> which
-            <br /> Operate in <span className="text-primary">WIRA MD</span>
+            <br /> Operate in <span className="text-primary">PRISMA LAB</span>
           </h2>
         </div>
 
@@ -19,12 +19,12 @@ export function JobPositionSection() {
           <Item
             number="01"
             title="Operator"
-            description="Responsible for operating the WIRA MD system add and upload data ct scan patient to classify stroke patients using deep learning."
+            description="Responsible for operating the system add and upload data ct scan patient to classify stroke patients using deep learning."
           />
           <Item
             number="02"
             title="Doctor"
-            description="Responsible for checking the results of the classification of stroke patients using the WIRA MD system."
+            description="Responsible for checking the results of the classification of stroke patients."
           />
         </div>
       </div>

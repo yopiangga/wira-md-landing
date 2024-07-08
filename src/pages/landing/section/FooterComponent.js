@@ -6,7 +6,7 @@ export function FooterComponent() {
       <div className="w-11/12 flex justify-between items-center">
         <div>
           <p>
-            &copy; 2024 wira<span className="text-primary">-md</span>. All
+            &copy; 2024 prisma<span className="text-primary">-lab</span>. All
             rights reserved.
           </p>
         </div>

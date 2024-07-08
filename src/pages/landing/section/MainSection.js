@@ -8,8 +8,8 @@ export function MainSection() {
         <div className="lg:col-span-4 col-span-12 text-left flex flex-col justify-center">
           <h3 className="text-4xl text-text">Welcome</h3>
           <h1 className="text-6xl font-bold mt-6 text-primary">
-            WIRA <br />
-            MD
+            PRISMA <br />
+            LAB
           </h1>
           <h2 className="text-5xl mt-8">
             Stroke <br />
@@ -21,11 +21,11 @@ export function MainSection() {
           </p>
           <div className="flex gap-2 mt-4">
             <a
-              href="https://wira-dashboard.alfian-py.site"
+              href="https://dashboard.alfian-py.site"
               target="_blank"
               className="bg-primary text-dark-300 font-[500] px-10 py-3 mt-4 hover:bg-dark-100 hover:text-primary duration-200 rounded-xl"
             >
-              Wira Dashboard
+              Dashboard
             </a>
           </div>
         </div>

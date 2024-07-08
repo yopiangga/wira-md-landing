@@ -107,7 +107,7 @@ export function NavbarComponent() {
         </div>
         <div>
           <h1 className="font-bold">
-            wira<span className="text-primary">-md</span>
+            prisma<span className="text-primary">-lab</span>
           </h1>
         </div>
         <div className="lg:flex hidden gap-8 outline-none">

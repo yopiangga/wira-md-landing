@@ -17,8 +17,8 @@ export function TechnologySection() {
         <div className="text-left lg:col-span-4 col-span-12">
           <h5 className="">Technology</h5>
           <h2 className="text-5xl font-[500] mt-4">
-            For Build System <br /> WIRA{" "}
-            <span className="text-primary">MD Stroke Classificaton</span>
+            For Build System <br /> PRISMA{" "}
+            <span className="text-primary">LAB Stroke Classificaton</span>
           </h2>
         </div>
         <div className="lg:col-span-8 col-span-12 lg:mt-0 mt-6">
