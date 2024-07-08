@@ -21,7 +21,7 @@ export function MainSection() {
           </p>
           <div className="flex gap-2 mt-4">
             <a
-              href="https://dashboard.alfian-py.site"
+              href="https://prisma-dashboard.alfian-py.site"
               target="_blank"
               className="bg-primary text-dark-300 font-[500] px-10 py-3 mt-4 hover:bg-dark-100 hover:text-primary duration-200 rounded-xl"
             >
